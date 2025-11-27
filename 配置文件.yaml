@@ -1017,12 +1017,6 @@ scriptings:
     timeout: 120
     disabled: true
 mitm:
-  enabled: true
-  ca_p12: egern.p12
-  ca_passphrase: egern
-  hostnames:
-    includes:
-    - biz.cyapi.cn
 modules:
 - url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20Apple%20%E5%A4%A9%E6%B0%94%E5%A2%9E%E5%BC%BA.official.sgmodule
   enabled: true
